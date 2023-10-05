@@ -1,0 +1,8 @@
+.preview-post-card{
+    padding: 10px;
+    margin:10px ;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    box-shadow: 0 0 10px #ccc;
+    cursor: pointer;
+}
